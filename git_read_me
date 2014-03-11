@@ -1,0 +1,10 @@
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sikete/onlytest.git
+git push -u origin master
+
+
+git remote set-url orginal https://amonest@github.com/amonest/python-scripts.git
+git push orginal master
